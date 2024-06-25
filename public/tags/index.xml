@@ -1,13 +1,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Website Name</title>
-	<link>https://example.org/tags/</link>
+	<link>http://localhost:1313/mywebsite/tags/</link>
 	<description>Recent content in Tags on Website Name</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/mywebsite/tags/index.xml" rel="self" type="application/rss+xml" />
 	
+	
+	<item>
+		<title>Scripts</title>
+		<link>http://localhost:1313/mywebsite/scripts/</link>
+		<pubDate>Tue, 18 Jun 2024 01:45:27 -0400</pubDate>
+		
+		<guid>http://localhost:1313/mywebsite/scripts/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mywebsite/bash/freshinstall.sh&#34;&gt;rice install full&lt;/a&gt;&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title></title>
+		<link>http://localhost:1313/mywebsite/furry/</link>
+		<pubDate>Thu, 23 May 2024 23:23:18 -0400</pubDate>
+		
+		<guid>http://localhost:1313/mywebsite/furry/</guid>
+		<description>&lt;h3 id=&#34;commisions-of-rigel&#34;&gt;Commisions of Rigel&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mywebsite/furry/rigel_chastity.png&#34;&gt;fullbody + chastity cage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mywebsite/furry/rigel_portrait.jpg&#34;&gt;portrait&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mywebsite/furry/doggydog.mp4&#34;&gt;oldschool runescape talking head&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mywebsite/furry/bunny_feng_dog.png&#34;&gt;meme bunny feng min portrait&lt;/a&gt;&lt;/p&gt;
+</description>
+	</item>
 	
 	</channel>
 </rss>
