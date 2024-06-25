@@ -5,9 +5,6 @@ draft: false
 ---
 _"It's a doggy dog world"_  
 
-[about](about/) |
-[blog](tags/blog/) 
-
 ```
                                //\_     
           ____,...,______..,_~``  -`.., 
@@ -17,8 +14,7 @@ _"It's a doggy dog world"_
           (:/\_-,      \:.\_-,  
 ```
 ----------------
-[video archive](archive/) |
-[furry stuff (nsfw)](furry/) 
 
-----------------
+[furry stuff](furry/) | [shitty bash scripts](bash/)
+
  

@@ -22,14 +22,15 @@
 {{ block "main" . }}
 {{ .Content }}
 {{ end }}
-{{ if .Param "nextprev" }}{{ partial "nextprev.html" . -}}{{ end -}}
-{{ if .Param "taglist" }}{{ partial "taglist.html" . }}{{ end -}}
+
 </article>
 </main>
 {{ block "footer" . }}
 <footer>
-<br><br><img src="https://fvckdog.github.io/mywebsite/astral_button.png" alt="Craft Astrals"></img>
-</footer>
+<br><br>
+{{ partial "footpic.html" . }}
+ </footer>
 {{ end }}
 </body>
+
 </html>
