@@ -1,12 +1,13 @@
 body {
 	font-family: sans-serif ;
-	background: #110000 ;
+	background: #292929 ;
 	color: #ccc ;
 }
 
 main {
 	max-width: 800px ;
 	margin: auto ;
+	text-align: center ;
 }
 
 img {
