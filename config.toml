@@ -1,5 +1,5 @@
 title = "Website Name"
-baseURL = 'https://fvckdog.github.io/'
+baseURL = '/'
 languageCode = 'en-us'
 theme = 'lugo'
 
