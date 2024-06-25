@@ -10,12 +10,13 @@
 	
 	
 	<item>
-		<title>Bash Scrips written by a dog</title>
+		<title></title>
 		<link>http://localhost:1313/mywebsite/bash/</link>
 		<pubDate>Tue, 18 Jun 2024 01:45:27 -0400</pubDate>
 		
 		<guid>http://localhost:1313/mywebsite/bash/</guid>
-		<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mywebsite/bash/freshinstall.sh&#34;&gt;rice install&lt;/a&gt;&lt;/p&gt;
+		<description>&lt;h3 id=&#34;bash-scrips-written-by-dog&#34;&gt;Bash Scrips Written by Dog&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mywebsite/bash/freshinstall.sh&#34;&gt;rice install&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	
