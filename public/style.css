@@ -1,12 +1,21 @@
 body {
 	font-family: sans-serif ;
-	background: #110000 ;
-	color: #ccc ;
+	background: #292929 ;
+	color: white ;
+}
+
+a:visited {
+	color: white;
+}
+
+a {
+	color: white;
 }
 
 main {
+		margin: auto ;
+
 	max-width: 800px ;
-	margin: auto ;
 }
 
 img {
@@ -17,11 +26,19 @@ header h1 {
 	text-align: center ;
 }
 
+article {
+		text-align: center;
+}
+
 footer {
 	text-align: center ;
 	clear: both ;
 }
-
+pre { 
+  margin: auto ;
+  max-width: 800px;
+  text-align: center;
+}
 /* For TAGLIST.HTML */
 .taglist {
 	text-align: center ;
@@ -43,10 +60,17 @@ footer {
 #nextart,#prevart {
 	max-width: 33% ;
 }
-td {
-	text-align: center;
-}
-tr {
-	text-align: center;
 
+
+
+table {
+  margin: 20px 100px;
+  text-align: center;
+}
+
+td, th, tr {
+	border: 3px solid #ddd;
+	text-align: center;
+	padding: 8px;
+	width: 800px;
 }
