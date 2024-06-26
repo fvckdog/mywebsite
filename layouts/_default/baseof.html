@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language }}">
 <head>
-	
+	<title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
+
 	<link rel="canonical" href="{{ .Site.BaseURL }}">
 	<link rel='alternate' type='application/rss+xml' title="{{ .Site.Title }} RSS" href='/index.xml'>
 	<link rel='stylesheet' type='text/css' href='https://fvckdog.github.io/mywebsite/style.css'>
