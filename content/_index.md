@@ -16,6 +16,6 @@ _"It's a doggy dog world"_
 ```
 ----------------
 
-[furry stuff](furry/) | [shitty bash scripts](bash/)
+[furry stuff](furry/) | [l4d2 stuff](l4d2/)
 
  

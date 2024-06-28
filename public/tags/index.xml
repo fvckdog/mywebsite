@@ -1,45 +1,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Gay Dog Headquarters</title>
-	<link>http://localhost:1313/mywebsite/tags/</link>
+	<link>http://localhost:1313/tags/</link>
 	<description>Recent content in Tags on Gay Dog Headquarters</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="http://localhost:1313/mywebsite/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title></title>
-		<link>http://localhost:1313/mywebsite/bash/</link>
+		<link>http://localhost:1313/bash/</link>
 		<pubDate>Tue, 18 Jun 2024 01:45:27 -0400</pubDate>
 		
-		<guid>http://localhost:1313/mywebsite/bash/</guid>
+		<guid>http://localhost:1313/bash/</guid>
 		<description>&lt;h3 id=&#34;bash-scrips-written-by-dog&#34;&gt;Bash Scrips Written by Dog&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mywebsite/bash/freshinstall.sh&#34;&gt;rice install&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/bash/freshinstall.sh&#34;&gt;rice install&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
-		<title>Scripts</title>
-		<link>http://localhost:1313/mywebsite/_scripts/</link>
+		<title>L4D2 Resources</title>
+		<link>http://localhost:1313/_l4d2/</link>
 		<pubDate>Tue, 18 Jun 2024 01:45:27 -0400</pubDate>
 		
-		<guid>http://localhost:1313/mywebsite/_scripts/</guid>
-		<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mywebsite/bash/freshinstall.sh&#34;&gt;rice install full&lt;/a&gt;&lt;/p&gt;
+		<guid>http://localhost:1313/_l4d2/</guid>
+		<description>&lt;h3 id=&#34;my-autoexeccfg&#34;&gt;My Autoexec.cfg&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;l4d2/autoexec&#34;&gt;autoexec.cfg&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title></title>
-		<link>http://localhost:1313/mywebsite/furry/</link>
+		<link>http://localhost:1313/furry/</link>
 		<pubDate>Thu, 23 May 2024 23:23:18 -0400</pubDate>
 		
-		<guid>http://localhost:1313/mywebsite/furry/</guid>
+		<guid>http://localhost:1313/furry/</guid>
 		<description>&lt;h3 id=&#34;commisions-of-rigel&#34;&gt;Commisions of Rigel&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://previews.dropbox.com/p/thumb/ACUWziPWGbUrFkqBqZmjYsukpFZDk-qZ11BbHgzOK8av2cQesgLRuAZeIQvL-2ba1W52U2KtNVb9MpWBnoOpZr-ButTtcVTt69j2LLTa6xzIBkpaYNLIxXYDThS7eqAN4ItPA3BxbAZ_7BBvyvCj0fhBFfZgeez319vzk9GpUojrQ-BslhuqQFyQx9B7xEdP9jjh-tH2eKZwqYPOTG9KLlEE117X-WyKdkKEhZ_3cjoedhVbdAk-HZHiD2k7fV4mkfdE_9mXvgU-VEJCXcbswkoCNc6IrNPLUJZGwNvMx0u6LclQSCve6_9NKP8jH9nNXG_m16Y3dX9bdfBkhxd4dGSPhu8nnF964ZB9qwUC5wsOwWsrCyEtKtDjsWDV6HT9z63Wrvz_xm9ERFhNuHAXJ4OSiFUQnMApRyu21rKkvkySB_RGM8dPvxjL3NHq_NvF2bzuhBgQM-TyxjDIUw5Jo3RqOgqHqhZhvchLEGTLizd8OFz3W9K1K4_wHPiLqsDlxvZxa7nD-ZP6x1QjUssLCCfQ7WzjG7Bgw9KJvvIomRuvY7D_pF8RaIsV8f0o-lfwdiU/p.png&#34;&gt;fullbody + chastity cage&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://previews.dropbox.com/p/thumb/ACXkJ0hrsCBGvsTf5Rc0vNV-20XA2Zi4mbftURu5O2IwX5cYoaip67Q5nfbmZXWSDINB8qH9fTCSs_KWW2VhvfG6qhe57At5y1yjrpYu2fjCQnxBw1A3TaSUkxDYpTzazqjXDbqNseRq0b66DIzAI0w8cF0FLgZfhuTVH4daR_RkFptEOXzFdwEWA-umGaErSfaYPuluH3YRA8k-UCiR5iEOyTHkI_lXmNfQOXeDMLfPfWQf-o7E_0c7Si9JmJUP1KVPRr9GTQd4SCvYRCZB6T8Hsevqb0V-Q-COckdPaLsN75ptPHd8gdjnk8ps6V--A8NdqTXUYVn3lVALnb39TB1i/p.jpeg&#34;&gt;portrait&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/mywebsite/furry/doggydog.mp4&#34;&gt;oldschool runescape talking head&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/furry/doggydog.mp4&#34;&gt;oldschool runescape talking head&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://previews.dropbox.com/p/thumb/ACVkV-A-1z7_yCH1j7A4-mFH9lqKH6R05r1LX_4onOEjf2hSnWNa_w_X6XF-sugaTYZQHAV6mQivJokYeHoB0U3rhyNCN9UotvrD24xeXBwSoaHjQGYHsCX5kW0QgIUYK2tYhIdDsGoUri6Pny0tDUEbeKb90WiL7CO4InFzsv2fhBfQXZ__Oeia7ITxxa0PE8njzzBQTlZ0jJnqV138CrVFYUFpaCc5mXKoxjNVIq45RaKNRNog2HFbe6yR5_0vPyry6XFxkLS74WamjkyBeucM60kekVsCxn21W7rx-rS3_qCAcaSLMwSmRzzMGunLjycE4aqsbo4Yaq9lsilCkglH/p.png&#34;&gt;meme bunny feng min portrait&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
