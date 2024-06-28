@@ -11,6 +11,37 @@
 	
 	
 	<item>
+		<title>Autoexec.cfg</title>
+		<link>https://osrs.dog/autoexec/</link>
+		<pubDate>Fri, 28 Jun 2024 07:40:51 -0400</pubDate>
+		
+		<guid>https://osrs.dog/autoexec/</guid>
+		<description>&lt;p&gt;&lt;a href=&#34;autoexec.cfg&#34;&gt;download&lt;/a&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;// This supposedly optimizes the accuracy of directional sound. //
+// https://steamcommunity.com/sharedfiles/filedetails/?id=487027371 //
+exec sounds.cfg
+
+// Automatically records and timestamps a demo //
+// Brining up the scoreboard will start recording //
+alias +showexec &amp;#34;+showscores; exec sander.cfg&amp;#34; 
+alias -showexec &amp;#34;-showscores&amp;#34; 
+bind TAB +showexec
+
+// Crosshair Aliases //
+alias &amp;#34;purple&amp;#34; &amp;#34;cl_crosshair_red 255; cl_crosshair_green 0; cl_crosshair_blue 255&amp;#34;
+alias &amp;#34;red&amp;#34; &amp;#34;cl_crosshair_red 255; cl_crosshair_green 0; cl_crosshair_blue 0&amp;#34;
+alias &amp;#34;green&amp;#34; &amp;#34;cl_crosshair_red 0; cl_crosshair_green 255; cl_crosshair_blue 0&amp;#34;
+cl_crosshair_dynamic 1 
+
+// Toggles your weapon model on off //
+bind f4 &amp;#34;toggle cl_viewmodelfovsurvivor 180 80&amp;#34;
+// Connects to Bleedz server through lobby in case steam groups are broken
+
+mm_dedicated_force_servers 45.76.0.80:27015
+&lt;/code&gt;&lt;/pre&gt;</description>
+	</item>
+	
+	<item>
 		<title></title>
 		<link>https://osrs.dog/bash/</link>
 		<pubDate>Tue, 18 Jun 2024 01:45:27 -0400</pubDate>
