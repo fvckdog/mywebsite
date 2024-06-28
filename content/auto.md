@@ -1,8 +1,7 @@
 ---
-title: "Autoexec.cfg"
-date: 2024-06-28T07:40:51-04:00
+title: "Auto"
+date: 2024-06-28T11:01:27-04:00
 ---
-
 [download](autoexec.cfg)
 
 ```
@@ -27,4 +26,3 @@ bind f4 "toggle cl_viewmodelfovsurvivor 180 80"
 // Connects to Bleedz server through lobby in case steam groups are broken
 
 mm_dedicated_force_servers 45.76.0.80:27015
-```

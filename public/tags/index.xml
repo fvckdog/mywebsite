@@ -10,11 +10,11 @@
 	
 	
 	<item>
-		<title>Autoexec.cfg</title>
-		<link>https://osrs.dog/autoexec/</link>
-		<pubDate>Fri, 28 Jun 2024 07:40:51 -0400</pubDate>
+		<title>Auto</title>
+		<link>https://osrs.dog/auto/</link>
+		<pubDate>Fri, 28 Jun 2024 11:01:27 -0400</pubDate>
 		
-		<guid>https://osrs.dog/autoexec/</guid>
+		<guid>https://osrs.dog/auto/</guid>
 		<description>&lt;p&gt;&lt;a href=&#34;autoexec.cfg&#34;&gt;download&lt;/a&gt;&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;// This supposedly optimizes the accuracy of directional sound. //
 // https://steamcommunity.com/sharedfiles/filedetails/?id=487027371 //
@@ -53,12 +53,12 @@ mm_dedicated_force_servers 45.76.0.80:27015
 	
 	<item>
 		<title>L4D2 Resources</title>
-		<link>https://osrs.dog/_l4d2/</link>
+		<link>https://osrs.dog/l4d2/</link>
 		<pubDate>Tue, 18 Jun 2024 01:45:27 -0400</pubDate>
 		
-		<guid>https://osrs.dog/_l4d2/</guid>
+		<guid>https://osrs.dog/l4d2/</guid>
 		<description>&lt;h3 id=&#34;my-autoexeccfg&#34;&gt;My Autoexec.cfg&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://osrs.dog/l4d2/autoexec&#34;&gt;autoexec.cfg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;auto&#34;&gt;autoexec.cfg&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	
