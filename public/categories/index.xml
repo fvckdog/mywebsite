@@ -34,9 +34,14 @@ cl_crosshair_dynamic 1
 
 // Toggles your weapon model on off //
 bind f4 &amp;#34;toggle cl_viewmodelfovsurvivor 180 80&amp;#34;
-// Connects to Bleedz server through lobby in case steam groups are broken
 
-mm_dedicated_force_servers 45.76.0.80:27015
+// Connects to Bleedz server through lobby in case steam groups are broken
+mm_dedicated_force_servers ip:port
+bind f3 &amp;#34;say /acc&amp;#34; // check accuracy on server
+
+fps_max 144
+// Easier and faster than kicking someone with an open mic or something //
+bind f3 &amp;#34;toggle voice_modenable 1 0&amp;#34;
 &lt;/code&gt;&lt;/pre&gt;</description>
 	</item>
 	
@@ -58,7 +63,7 @@ mm_dedicated_force_servers 45.76.0.80:27015
 		
 		<guid>https://osrs.dog/l4d2/</guid>
 		<description>&lt;h3 id=&#34;my-autoexeccfg&#34;&gt;My Autoexec.cfg&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;auto&#34;&gt;autoexec.cfg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://autoexec.cfg&#34;&gt;autoexec.cfg&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	
