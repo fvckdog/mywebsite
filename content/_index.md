@@ -16,6 +16,6 @@ _"It's a doggy dog world"_
 ```
 ----------------
 
-[sona](furry/) | [l4d2 autoexec](auto/)
+[nostr links](https://nostree.me/tail@osrs.dog) | [sona](furry/) | [l4d2 autoexec](auto/)
 
  

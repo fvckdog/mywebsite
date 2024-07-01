@@ -10,13 +10,12 @@
 	
 	
 	<item>
-		<title>L4D2 Crap</title>
+		<title>autoexec.cfg</title>
 		<link>http://localhost:1313/auto/</link>
 		<pubDate>Fri, 28 Jun 2024 11:01:27 -0400</pubDate>
 		
 		<guid>http://localhost:1313/auto/</guid>
-		<description>&lt;h3 id=&#34;heading&#34;&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;autoexec.cfg&#34;&gt;download&lt;/a&gt;&lt;/p&gt;
+		<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/autoexec.cfg&#34;&gt;download&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
 &lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 1
@@ -110,7 +109,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	bind &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;slot1;cl_viewmodelfovsurvivor 180
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;	bind 3 &amp;#34;&lt;/span&gt;slot3;cl_viewmodelfovsurvivor &lt;span style=&#34;color:#ae81ff&#34;&gt;80&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	bind &lt;span style=&#34;color:#ae81ff&#34;&gt;4&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;slot4;cl_viewmodelfovsurvivor 80
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;	bind 5 &amp;#34;&lt;/span&gt;slot4;cl_viewmodelfovsurvivor &lt;span style=&#34;color:#ae81ff&#34;&gt;80&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;	bind 5 &amp;#34;&lt;/span&gt;slot5;cl_viewmodelfovsurvivor &lt;span style=&#34;color:#ae81ff&#34;&gt;80&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;===============================================================&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	Toggles between fov to correct anything weird that may happen
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	like accidentally using scroll wheel instead of pressing a bind
@@ -120,9 +119,9 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	Connects to server through lobby in &lt;span style=&#34;color:#66d9ef&#34;&gt;case&lt;/span&gt; steam groups are broken
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;=======================================================================&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	mm_dedicated_force_servers &amp;lt;ip-address&amp;gt;:27015
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#f92672&#34;&gt;=======================================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;=======================================================================&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;// 	Creates an alias &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; any server you want conveniently connect to
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#f92672&#34;&gt;=======================================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;=======================================================================&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	alias &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;lt;server/command-name&amp;gt;&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;connect  &amp;lt;ip-address&amp;gt;:27015&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	bind f3 &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;sm_acc&amp;#34;&lt;/span&gt; // check accuracy 
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	bind f2 &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;sm_slaysafe;sm_breakglass&amp;#34;&lt;/span&gt;
