@@ -1,67 +1,162 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Gay Dog Headquarters</title>
-	<link>https://osrs.dog/categories/</link>
+	<link>http://localhost:1313/categories/</link>
 	<description>Recent content in Categories on Gay Dog Headquarters</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="https://osrs.dog/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
-		<title>Auto</title>
-		<link>https://osrs.dog/auto/</link>
+		<title>L4D2 Crap</title>
+		<link>http://localhost:1313/auto/</link>
 		<pubDate>Fri, 28 Jun 2024 11:01:27 -0400</pubDate>
 		
-		<guid>https://osrs.dog/auto/</guid>
-		<description>&lt;p&gt;&lt;a href=&#34;autoexec.cfg&#34;&gt;download&lt;/a&gt;&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;// This supposedly optimizes the accuracy of directional sound. //
-// https://steamcommunity.com/sharedfiles/filedetails/?id=487027371 //
-exec sounds.cfg
-
-// Automatically records and timestamps a demo //
-// Brining up the scoreboard will start recording //
-alias +showexec &amp;#34;+showscores; exec sander.cfg&amp;#34; 
-alias -showexec &amp;#34;-showscores&amp;#34; 
-bind TAB +showexec
-
-// Crosshair Aliases //
-alias &amp;#34;purple&amp;#34; &amp;#34;cl_crosshair_red 255; cl_crosshair_green 0; cl_crosshair_blue 255&amp;#34;
-alias &amp;#34;red&amp;#34; &amp;#34;cl_crosshair_red 255; cl_crosshair_green 0; cl_crosshair_blue 0&amp;#34;
-alias &amp;#34;green&amp;#34; &amp;#34;cl_crosshair_red 0; cl_crosshair_green 255; cl_crosshair_blue 0&amp;#34;
-cl_crosshair_dynamic 1 
-
-// Toggles your weapon model on off //
-bind f4 &amp;#34;toggle cl_viewmodelfovsurvivor 180 80&amp;#34;
-
-// Connects to Bleedz server through lobby in case steam groups are broken
-mm_dedicated_force_servers ip:port
-bind f3 &amp;#34;say /acc&amp;#34; // check accuracy on server
-
-fps_max 144
-// Easier and faster than kicking someone with an open mic or something //
-bind f3 &amp;#34;toggle voice_modenable 1 0&amp;#34;
-&lt;/code&gt;&lt;/pre&gt;</description>
+		<guid>http://localhost:1313/auto/</guid>
+		<description>&lt;h3 id=&#34;heading&#34;&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;autoexec.cfg&#34;&gt;download&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
+&lt;table style=&#34;border-spacing:0;padding:0;margin:0;border:0;&#34;&gt;&lt;tr&gt;&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 1
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 2
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 3
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 4
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 5
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 6
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 7
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 8
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt; 9
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;10
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;11
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;12
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;13
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;14
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;15
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;16
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;17
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;18
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;19
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;20
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;21
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;22
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;23
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;24
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;25
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;26
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;27
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;28
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;29
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;30
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;31
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;32
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;33
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;34
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;35
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;36
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;37
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;38
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;39
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;40
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;41
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;42
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;43
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;44
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;45
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;46
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;47
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;48
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;49
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;50
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;51
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;52
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;53
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;54
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;55
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;56
+&lt;/span&gt;&lt;span style=&#34;white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f&#34;&gt;57
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td style=&#34;vertical-align:top;padding:0;margin:0;border:0;;width:100%&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-Shell&#34; data-lang=&#34;Shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;================================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	This supposedly optimizes the accuracy of directional sound:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	https://steamcommunity.com/sharedfiles/filedetails/?id&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;487027371&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;================================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	exec sounds.cfg
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;===============================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	Automatically records and timestamps a demo     
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	Brining up the scoreboard will start recording
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	NOTE: This requires a really stupid dependency 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	when you could just automate this bash/batch. 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;===============================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	alias +showexec &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;+showscores; exec sander.cfg&amp;#34;&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	alias -showexec &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;-showscores&amp;#34;&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	bind TAB +showexec
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;==================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	Crosshair Configs
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;==================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	alias &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;purple&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;cl_crosshair_red 255; cl_crosshair_green 0; cl_crosshair_blue 255&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	alias &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;red&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;cl_crosshair_red 255; cl_crosshair_green 0; cl_crosshair_blue 0&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	alias &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;green&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;cl_crosshair_red 0; cl_crosshair_green 255; cl_crosshair_blue 0&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	cl_crosshair_dynamic &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;=================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//  Custom Viewmodel 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;=================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;==================================================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#ae81ff&#34;&gt;180&lt;/span&gt; fov completely removes the model that you&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;&amp;#39;&lt;/span&gt;re carrying from your screen
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	It sort of throws me off with melee and throwables so these will reset fov to &lt;span style=&#34;color:#ae81ff&#34;&gt;80&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	whenever you equip utility
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;==================================================================================&lt;/span&gt;	
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	bind &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;slot1;cl_viewmodelfovsurvivor 180
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;	bind 3 &amp;#34;&lt;/span&gt;slot3;cl_viewmodelfovsurvivor &lt;span style=&#34;color:#ae81ff&#34;&gt;80&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	bind &lt;span style=&#34;color:#ae81ff&#34;&gt;4&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;slot4;cl_viewmodelfovsurvivor 80
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;	bind 5 &amp;#34;&lt;/span&gt;slot4;cl_viewmodelfovsurvivor &lt;span style=&#34;color:#ae81ff&#34;&gt;80&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;===============================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	Toggles between fov to correct anything weird that may happen
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	like accidentally using scroll wheel instead of pressing a bind
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;===============================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	bind f4 &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;toggle cl_viewmodelfovsurvivor 180 80&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;=======================================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	Connects to server through lobby in &lt;span style=&#34;color:#66d9ef&#34;&gt;case&lt;/span&gt; steam groups are broken
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;=======================================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	mm_dedicated_force_servers &amp;lt;ip-address&amp;gt;:27015
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#f92672&#34;&gt;=======================================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;// 	Creates an alias &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; any server you want conveniently connect to
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;span style=&#34;color:#f92672&#34;&gt;=======================================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	alias &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&amp;lt;server/command-name&amp;gt;&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;connect  &amp;lt;ip-address&amp;gt;:27015&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	bind f3 &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;sm_acc&amp;#34;&lt;/span&gt; // check accuracy 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	bind f2 &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;sm_slaysafe;sm_breakglass&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;====================================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	Easier and faster than kicking someone with an open mic or something 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;====================================================================&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	bind f11 &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;toggle voice_modenable 1 0&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;======&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	Misc.	
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//	&lt;span style=&#34;color:#f92672&#34;&gt;======&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	fps_max &lt;span style=&#34;color:#ae81ff&#34;&gt;144&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
 	</item>
 	
 	<item>
 		<title></title>
-		<link>https://osrs.dog/bash/</link>
+		<link>http://localhost:1313/bash/</link>
 		<pubDate>Tue, 18 Jun 2024 01:45:27 -0400</pubDate>
 		
-		<guid>https://osrs.dog/bash/</guid>
+		<guid>http://localhost:1313/bash/</guid>
 		<description>&lt;h3 id=&#34;bash-scrips-written-by-dog&#34;&gt;Bash Scrips Written by Dog&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://osrs.dog/bash/freshinstall.sh&#34;&gt;rice install&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/bash/freshinstall.sh&#34;&gt;rice install&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	
 	<item>
 		<title>L4D2 Resources</title>
-		<link>https://osrs.dog/l4d2/</link>
+		<link>http://localhost:1313/l4d2/</link>
 		<pubDate>Tue, 18 Jun 2024 01:45:27 -0400</pubDate>
 		
-		<guid>https://osrs.dog/l4d2/</guid>
+		<guid>http://localhost:1313/l4d2/</guid>
 		<description>&lt;h3 id=&#34;my-autoexeccfg&#34;&gt;My Autoexec.cfg&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://autoexec.cfg&#34;&gt;autoexec.cfg&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -69,15 +164,15 @@ bind f3 &amp;#34;toggle voice_modenable 1 0&amp;#34;
 	
 	<item>
 		<title></title>
-		<link>https://osrs.dog/furry/</link>
+		<link>http://localhost:1313/furry/</link>
 		<pubDate>Thu, 23 May 2024 23:23:18 -0400</pubDate>
 		
-		<guid>https://osrs.dog/furry/</guid>
+		<guid>http://localhost:1313/furry/</guid>
 		<description>&lt;h3 id=&#34;commisions-of-rigel&#34;&gt;Commisions of Rigel&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://previews.dropbox.com/p/thumb/ACUWziPWGbUrFkqBqZmjYsukpFZDk-qZ11BbHgzOK8av2cQesgLRuAZeIQvL-2ba1W52U2KtNVb9MpWBnoOpZr-ButTtcVTt69j2LLTa6xzIBkpaYNLIxXYDThS7eqAN4ItPA3BxbAZ_7BBvyvCj0fhBFfZgeez319vzk9GpUojrQ-BslhuqQFyQx9B7xEdP9jjh-tH2eKZwqYPOTG9KLlEE117X-WyKdkKEhZ_3cjoedhVbdAk-HZHiD2k7fV4mkfdE_9mXvgU-VEJCXcbswkoCNc6IrNPLUJZGwNvMx0u6LclQSCve6_9NKP8jH9nNXG_m16Y3dX9bdfBkhxd4dGSPhu8nnF964ZB9qwUC5wsOwWsrCyEtKtDjsWDV6HT9z63Wrvz_xm9ERFhNuHAXJ4OSiFUQnMApRyu21rKkvkySB_RGM8dPvxjL3NHq_NvF2bzuhBgQM-TyxjDIUw5Jo3RqOgqHqhZhvchLEGTLizd8OFz3W9K1K4_wHPiLqsDlxvZxa7nD-ZP6x1QjUssLCCfQ7WzjG7Bgw9KJvvIomRuvY7D_pF8RaIsV8f0o-lfwdiU/p.png&#34;&gt;fullbody + chastity cage&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://previews.dropbox.com/p/thumb/ACXkJ0hrsCBGvsTf5Rc0vNV-20XA2Zi4mbftURu5O2IwX5cYoaip67Q5nfbmZXWSDINB8qH9fTCSs_KWW2VhvfG6qhe57At5y1yjrpYu2fjCQnxBw1A3TaSUkxDYpTzazqjXDbqNseRq0b66DIzAI0w8cF0FLgZfhuTVH4daR_RkFptEOXzFdwEWA-umGaErSfaYPuluH3YRA8k-UCiR5iEOyTHkI_lXmNfQOXeDMLfPfWQf-o7E_0c7Si9JmJUP1KVPRr9GTQd4SCvYRCZB6T8Hsevqb0V-Q-COckdPaLsN75ptPHd8gdjnk8ps6V--A8NdqTXUYVn3lVALnb39TB1i/p.jpeg&#34;&gt;portrait&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://osrs.dog/furry/doggydog.mp4&#34;&gt;oldschool runescape talking head&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://previews.dropbox.com/p/thumb/ACVkV-A-1z7_yCH1j7A4-mFH9lqKH6R05r1LX_4onOEjf2hSnWNa_w_X6XF-sugaTYZQHAV6mQivJokYeHoB0U3rhyNCN9UotvrD24xeXBwSoaHjQGYHsCX5kW0QgIUYK2tYhIdDsGoUri6Pny0tDUEbeKb90WiL7CO4InFzsv2fhBfQXZ__Oeia7ITxxa0PE8njzzBQTlZ0jJnqV138CrVFYUFpaCc5mXKoxjNVIq45RaKNRNog2HFbe6yR5_0vPyry6XFxkLS74WamjkyBeucM60kekVsCxn21W7rx-rS3_qCAcaSLMwSmRzzMGunLjycE4aqsbo4Yaq9lsilCkglH/p.png&#34;&gt;meme bunny feng min portrait&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://image.nostr.build/fb54007727317ae01e233d9aebc0c86c4c9cea7f07b15ec2836811da0f9fc1b0.png&#34;&gt;fullbody + chastity cage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://image.nostr.build/1a16a1609802f6de860218759370816095e5ba973b158635e939f16693fbb1af.jpg&#34;&gt;portrait&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://video.nostr.build/6f0537861af0e58b34ade707c8c841f7db56296a72d8325be413da3eca2aa8fc.mp4&#34;&gt;oldschool runescape talking head&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://image.nostr.build/5c938bf63a0bb470b692cf198dba6c312e1bb43bc227d01edb4863ac716f1fc2.png&#34;&gt;meme bunny feng min portrait&lt;/a&gt;&lt;/p&gt;
 </description>
 	</item>
 	

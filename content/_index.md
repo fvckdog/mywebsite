@@ -16,6 +16,6 @@ _"It's a doggy dog world"_
 ```
 ----------------
 
-[furry stuff](furry/) | [l4d2 stuff](auto/)
+[sona](furry/) | [l4d2 autoexec](auto/)
 
  
