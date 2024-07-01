@@ -49,12 +49,12 @@ date: 2024-06-28T11:01:27-04:00
 	bind 4 "slot4;cl_viewmodelfovsurvivor 80
 	bind 5 "slot5;cl_viewmodelfovsurvivor 80
 
-//	===============================================================
-//	Toggles between fov to correct anything weird that may happen
-//	like accidentally using scroll wheel instead of pressing a bind
-//	===============================================================
+//	=======================================
+//	Toggles  fov + mousewheel to hide item 
+//	=======================================
 
 	bind f4 "toggle cl_viewmodelfovsurvivor 180 80"
+	bind mwheelup "cl_viewmodelfovsurvivor 180"; bind mwheeldown "cl_viewmodelfovsurvivor 180"
 
 //	=======================================================================
 //	Connects to server through lobby in case steam groups are broken
